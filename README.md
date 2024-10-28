@@ -22,8 +22,17 @@ I'm a technology enthusiast with a background in scientific research and program
 
 ### Frameworks & Libraries
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/-Statsmodels-FF6F00?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/-Seaborn-9A9CFF?style=for-the-badge)
+![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-8B0000?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-BB2020?style=for-the-badge)
+![PyODBC](https://img.shields.io/badge/-PyODBC-4B0082?style=for-the-badge)
+![Requests](https://img.shields.io/badge/-Requests-005571?style=for-the-badge)
 
 ### Tools
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
